@@ -1,4 +1,5 @@
-<img width="1149" height="627" alt="Screenshot 2026-04-27 111534" src="https://github.com/user-attachments/assets/a4d4e699-6475-4950-a438-b76dfabeac0d" />
+<img width="986" height="567" alt="image" src="https://github.com/user-attachments/assets/3e71f637-711f-42df-aa9c-ee3f756adaf7" />
+
 
 # Student Performance Dashboard (Power BI)
 
